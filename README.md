@@ -3,7 +3,7 @@
 
 An Instagram-like dotted progress bar for multi-image flipping.
 
-![](https://github.com/ZeyuKeithFu/ScalableDottedBar/blob/demo/demo.gif)
+<img src="https://github.com/ZeyuKeithFu/ScalableDottedBar/blob/demo/demo.gif" height="600"/>
 
 ## Integration
 Add JitPack to your root `build.gradle`
