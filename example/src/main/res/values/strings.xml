@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScalableDottedBar</string>
+    <string name="back">bar.back()</string>
+    <string name="next">bar.next()</string>
+    <string name="settings">Settings</string>
+    <string name="num_dots">Number of dots</string>
+    <string name="max_init">Max initial dots</string>
+    <string name="level">Level of scale</string>
+    <string name="spacing">Spacing</string>
+    <string name="radius">Radius</string>
+    <string name="refresh">Refresh</string>
+</resources>

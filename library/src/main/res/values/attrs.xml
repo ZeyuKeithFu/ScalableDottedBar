@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScalableDottedBar">
+        <attr name="android:radius" />
+        <attr name="android:spacing" />
+        <attr name="numDots" format="integer" />
+        <attr name="maxInitial" format="integer" />
+        <attr name="scaleLevel" format="integer" />
+        <attr name="scaleMultiplier" format="float" />
+        <attr name="colorSelected" format="color" />
+        <attr name="colorUnselected" format="color" />
+    </declare-styleable>
+</resources>
